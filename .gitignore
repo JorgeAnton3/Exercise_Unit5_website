@@ -1,0 +1,9 @@
+# temporary files
+*.vscode/
+
+#editor-specific files
+*.DS_Store
+
+*.exe
+*.test
+*.prof
