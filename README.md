@@ -7,4 +7,5 @@ This repository is intended to be used for practice, following the exercise 1.1 
 The technologies used in the repo are HTML and CSS.
 
 ## Instructions
-To open the website index.html in a browser you have to (to continue)
+To open the website index.html in a browser you have to follow this link: https://jorgeanton3.github.io/Exercise_Unit5_website/
+
