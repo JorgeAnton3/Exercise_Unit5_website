@@ -3,8 +3,8 @@
 
 This repository is intended to be used for practice, following the exercise 1.1 of the module Development Environments from the first course of Web Applications Development degree.
 
-##Technologies
+## Technologies
 The technologies used in the repo are HTML and CSS.
 
-##Instructions
+## Instructions
 To open the website index.html in a browser you have to (to continue)
